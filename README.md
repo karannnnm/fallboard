@@ -1,6 +1,7 @@
 # fallboard
 
-An ESP32 that acts as a Bluetooth keyboard + mouse for your Mac, controlled from your phone over Wi-Fi. A fallback for when your real keyboard dies, including at the login and FileVault screens.
+An ESP32 that acts as a Bluetooth keyboard + mouse for your Mac, controlled from your phone or laptop over Wi-Fi. A fallback for when your real keyboard dies, including at the login and FileVault screens.
+Ofcourse having a wired keyboard and mouse beats the purpose of this tool.  
 
 ## Setup
 
